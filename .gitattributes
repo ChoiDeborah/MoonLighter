@@ -1,2 +1,1 @@
-jest.config.c linguist-vendored
-yarn-*.c linguist-vendored
+/Client/fmod*.h linguist-vendored
