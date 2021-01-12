@@ -1,1 +1,2 @@
-/*.c linguist-vendored
+jest.config.c linguist-vendored
+yarn-*.c linguist-vendored
